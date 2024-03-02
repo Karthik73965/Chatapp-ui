@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.texts{
+    color: #0C2D57;
+}
+
+.background{
+    background: radial-gradient(circle, rgba(2,0,36,1) 18%, rgba(0,0,0,1) 100%);
+
+}
+
+.icons{
+    color: #FC6736;
+}
+.pink{
+    background-color: #FFB0B0;
+}
+*{
+    scrollbar-width: thin;
+}
+.container {
+    background-color: rgba(255, 255, 255, .04);  
+    backdrop-filter: blur(10px);
+   }
